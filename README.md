@@ -1,8 +1,11 @@
 # PokeAPI MCP Server
 
 This project implements a Model Context Protocol (MCP) server using FastMCP. The server interacts with the [PokeAPI](https://pokeapi.co/) to provide tools for querying Pokémon and item information. This server is designed to be easily consumable by AI Agents.
+
+
 ![image](https://github.com/user-attachments/assets/de44438c-66f6-4057-bff2-5e1646a4676c)
 ![image](https://github.com/user-attachments/assets/d90cb181-4a5d-4f40-ad0a-1572ef4fbf8c)
+
 
 ## Features
 
